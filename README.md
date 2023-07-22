@@ -15,6 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-##Don't forget :
+## Don't forget :
   - To run < flutter pub get > in the VSCode terminal where the root of the project is located, for the latest dependencies.
   -   If using VSCode in case you encore troubles with web view  and others type : < flutter create . >
